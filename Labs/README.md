@@ -1,2 +1,1 @@
-# CO326-Computer-Systems-Engineering-Industrial-Networks
-# Labs
+# CO326-Computer-Systems-Engineering-Industrial-Networks Labs
